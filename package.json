@@ -35,5 +35,8 @@
   },
   "resolutions": {
     "jackspeak": "2.1.1"
+  },
+  "engines": {
+    "node": ">=14.20.1"
   }
 }
